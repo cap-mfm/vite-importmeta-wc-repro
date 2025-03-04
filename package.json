@@ -12,8 +12,8 @@
   },
   "devDependencies": {
     "@rollup/plugin-typescript": "^12.1.2",
-    "@types/react": "^19.0.8",
-    "@types/react-dom": "^19.0.3",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
     "@vitejs/plugin-react": "^4.3.4",
     "glob": "^11.0.1",
     "prettier": "^3.4.2",
